@@ -35,6 +35,10 @@
 ###### [Slides](https://drive.google.com/open?id=11aw3sJ4QUVFhGGWouE0EN7f2oYOJU5wz "Slides")
 ###### [DataSets](https://drive.google.com/open?id=10S1946ezSD2gka--9r7yUtb4LouM_tvp "DataSets")
 ###### [Code](https://github.com/basitaminbhatti/DataCamp_Data_Scientist_with_Python_2020/tree/master/Intermediate%20Data%20Visualization%20with%20Seaborn "Code")
+### Introduction to Importing Data in Python
+###### [Slides](https://drive.google.com/open?id=1ZVBOSssU2p7LRwuX-3Xd9Us3UBHXG255 "Slides")
+###### [DataSets](https://drive.google.com/open?id=1Bd01MyQh20oD2EsKnnfW-TxMCziaRYRh "DataSets")
+###### [Code](https://github.com/basitaminbhatti/DataCamp_Data_Scientist_with_Python_2020/tree/master/Introduction%20to%20Importing%20Data%20in%20Python)
 
 ### Working with Dates and Times in Python
 ###### [Slides](https://drive.google.com/open?id=1T6GU-MJlHMxX4NaEdrReBlSggamtpRGO "Slides")
