@@ -39,6 +39,10 @@
 ###### [Slides](https://drive.google.com/open?id=1ZVBOSssU2p7LRwuX-3Xd9Us3UBHXG255 "Slides")
 ###### [DataSets](https://drive.google.com/open?id=1Bd01MyQh20oD2EsKnnfW-TxMCziaRYRh "DataSets")
 ###### [Code](https://github.com/basitaminbhatti/DataCamp_Data_Scientist_with_Python_2020/tree/master/Introduction%20to%20Importing%20Data%20in%20Python)
+### Intermediate Importing Data in Python
+###### [Slides](https://drive.google.com/open?id=1zJTp9D0F72qVuvqxXcjAP7U5wSyurOnY "Slides")
+###### [DataSets](https://drive.google.com/open?id=17uYPh39clBKjNX3bl2LPT9bvIzA5XySp "DataSets")
+###### [Code](https://github.com/basitaminbhatti/DataCamp_Data_Scientist_with_Python_2020/tree/master/Intermediate%20Importing%20Data%20in%20Python)
 
 ### Working with Dates and Times in Python
 ###### [Slides](https://drive.google.com/open?id=1T6GU-MJlHMxX4NaEdrReBlSggamtpRGO "Slides")
