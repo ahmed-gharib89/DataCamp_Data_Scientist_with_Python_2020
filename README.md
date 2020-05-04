@@ -43,6 +43,10 @@
 ###### [Slides](https://drive.google.com/open?id=1zJTp9D0F72qVuvqxXcjAP7U5wSyurOnY "Slides")
 ###### [DataSets](https://drive.google.com/open?id=17uYPh39clBKjNX3bl2LPT9bvIzA5XySp "DataSets")
 ###### [Code](https://github.com/basitaminbhatti/DataCamp_Data_Scientist_with_Python_2020/tree/master/Intermediate%20Importing%20Data%20in%20Python)
+### Data Cleaning in Python
+###### [Slides](https://drive.google.com/open?id=1SY9IJ0zV7XI1GLQW-M9jE_Wc-igxp5Ha "Slides")
+###### [DataSets](https://drive.google.com/open?id=1mNUhMtqtlKNLJC30VSYmg2KhVy7Evpvz "DataSets")
+###### [Code](https://github.com/basitaminbhatti/DataCamp_Data_Scientist_with_Python_2020/tree/master/Data%20Cleaning%20in%20Python)
 
 ### Working with Dates and Times in Python
 ###### [Slides](https://drive.google.com/open?id=1T6GU-MJlHMxX4NaEdrReBlSggamtpRGO "Slides")
