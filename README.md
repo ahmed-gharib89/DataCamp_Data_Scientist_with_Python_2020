@@ -52,6 +52,9 @@
 ###### [Slides](https://drive.google.com/open?id=1T6GU-MJlHMxX4NaEdrReBlSggamtpRGO "Slides")
 ###### [DataSets](https://drive.google.com/open?id=1dCsqWNbwriZrAvEQU-nM90JcckJ0LKOw "DataSets")
 ###### [Code](https://github.com/basitaminbhatti/DataCamp_Data_Scientist_with_Python_2020/tree/master/Working%20with%20Dates%20and%20Times%20in%20Python "Code")
+### Writing Functions in Python
+###### [Slides](https://drive.google.com/open?id=1o8xGfWnj-3IppFBnV3QVHxgrTJbKF7nK "Slides")
+###### [Code](https://github.com/basitaminbhatti/DataCamp_Data_Scientist_with_Python_2020/tree/master/Writing%20Functions%20in%20Python "Code")
 ### Exploratory Data Analysis in Python
 ###### [Slides](https://drive.google.com/open?id=19CXg76nKviHFxVKzt6hVXC2g2OQ5G0Zx "Slides")
 ###### [DataSets](https://drive.google.com/open?id=1XSKK8gZzu1060T0w-kEfErKJKMmuIxbD "DataSets")
