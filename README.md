@@ -1,4 +1,4 @@
-# [DataCamp - Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python "DataCamp - Data Scientist with Python")
+# [DataCamp - Data Scientist with Python](https://drive.google.com/open?id=158NfGqL0Dm2O8A-N5rHxgu3Boh3Ztya- "DataCamp - Data Scientist with Python")
 
 ### Introduction to Python
 ###### [Slides](https://drive.google.com/open?id=1gebQa3UMm9Cgw4FApMiGCd1U3Y3agyIN "Slides")
@@ -47,22 +47,43 @@
 ###### [Slides](https://drive.google.com/open?id=1SY9IJ0zV7XI1GLQW-M9jE_Wc-igxp5Ha "Slides")
 ###### [DataSets](https://drive.google.com/open?id=1mNUhMtqtlKNLJC30VSYmg2KhVy7Evpvz "DataSets")
 ###### [Code](https://github.com/basitaminbhatti/DataCamp_Data_Scientist_with_Python_2020/tree/master/Data%20Cleaning%20in%20Python)
-
+###### [Code]()
 ### Working with Dates and Times in Python
 ###### [Slides](https://drive.google.com/open?id=1T6GU-MJlHMxX4NaEdrReBlSggamtpRGO "Slides")
 ###### [DataSets](https://drive.google.com/open?id=1dCsqWNbwriZrAvEQU-nM90JcckJ0LKOw "DataSets")
 ###### [Code](https://github.com/basitaminbhatti/DataCamp_Data_Scientist_with_Python_2020/tree/master/Working%20with%20Dates%20and%20Times%20in%20Python "Code")
-### Writing Functions in Python
-###### [Slides](https://drive.google.com/open?id=1o8xGfWnj-3IppFBnV3QVHxgrTJbKF7nK "Slides")
-###### [Code](https://github.com/basitaminbhatti/DataCamp_Data_Scientist_with_Python_2020/tree/master/Writing%20Functions%20in%20Python "Code")
 ### Exploratory Data Analysis in Python
 ###### [Slides](https://drive.google.com/open?id=19CXg76nKviHFxVKzt6hVXC2g2OQ5G0Zx "Slides")
 ###### [DataSets](https://drive.google.com/open?id=1XSKK8gZzu1060T0w-kEfErKJKMmuIxbD "DataSets")
 ###### [Code](https://github.com/basitaminbhatti/DataCamp_Data_Scientist_with_Python_2020/tree/master/Exploratory%20Data%20Analysis%20in%20Python "Code")
+
+### Analyzing Police Activity with pandas
+###### [Slides](https://drive.google.com/open?id=1zcf9KJJHmyFIcFohDVjeYarNN0dAtlu2 "Slides")
+###### [DataSets](https://drive.google.com/open?id=1rVGtUBGYTRg8QOhaW3AJ7n8gLagtTH8N "DataSets")
+###### [Code](https://github.com/basitaminbhatti/DataCamp_Data_Scientist_with_Python_2020/tree/master/Analyzing%20Police%20Activity%20with%20pandas)
+### Statistical Thinking in Python (Part 1)
+###### [Slides](https://drive.google.com/open?id=1Nl9CmF520Ph1gVzatAsC68NlVo-gyKwc "Slides")
+###### [DataSets](https://drive.google.com/open?id=1jNojqHK_ME-CaRsCPMsnDGZpDuP5u26y "DataSets")
+###### [Code](https://github.com/basitaminbhatti/DataCamp_Data_Scientist_with_Python_2020/tree/master/Statistical%20Thinking%20in%20Python%20(Part%201))
+### Statistical Thinking in Python (Part 2)
+###### [Slides](https://drive.google.com/open?id=1sbZdX1Fyhz9rxOiLqpIC5m71y_Zf_XpM "Slides")
+###### [DataSets](https://drive.google.com/open?id=1Cr_goV1TW11bbfA46rkWQAuXi8-UmltD "DataSets")
+###### [Code](https://github.com/basitaminbhatti/DataCamp_Data_Scientist_with_Python_2020/tree/master/Statistical%20Thinking%20in%20Python%20(Part%202))
+### Supervised Learning with scikit-learn
+###### [Slides](https://drive.google.com/open?id=1iPl5mbvHsrVpZmk7mD2ryeHOSrXABD16 "Slides")
+###### [DataSets](https://drive.google.com/open?id=1hDgunZURQ6CK3ZXLvySzG9rj7mtVJRcv "DataSets")
+###### [Code](https://github.com/basitaminbhatti/DataCamp_Data_Scientist_with_Python_2020/tree/master/Supervised%20Learning%20with%20scikit-learn)
+### Unsupervised Learning in Python
+###### [Slides](https://drive.google.com/open?id=1TPWYsfNoW5AEsNiJDUEjrTPsdYmBCNhU "Slides")
+###### [DataSets](https://drive.google.com/open?id=1x9-0kfnkFHDBMPXIofrGsBqF6KQPgZpO "DataSets")
+###### [Code](https://github.com/basitaminbhatti/DataCamp_Data_Scientist_with_Python_2020/tree/master/Unsupervised%20Learning%20in%20Python)
 ### Machine Learning with Tree-Based Models in Python
 ###### [Slides](https://drive.google.com/open?id=1G1iro0ZQTL8Dyxe5VTb3Ydg5ERD7SqSh "Slides")
 ###### [DataSets](https://drive.google.com/open?id=1XWyzy_KA1_uUPYpuMNy_4N2p7hhaxwrn "DataSets")
 ###### [Code](https://github.com/basitaminbhatti/DataCamp_Data_Scientist_with_Python_2020/tree/master/Machine%20Learning%20with%20Tree-Based%20Models%20in%20Python "Code")
+### Case Study: School Budgeting with Machine Learning in Python
+###### [Slides](https://drive.google.com/open?id=1JJ5OE7y5mSh0DNDNTJwLOIVhXMy74eVQ "Slides")
+###### [Code]()
 ### Cluster Analysis in Python
 ###### [Slides](https://drive.google.com/open?id=1VWmExuZ1Tjn532lZq2y0S1YwAcAiWID3 "Slides")
 ###### [DataSets](https://drive.google.com/open?id=15mPZZoqWyOz9gN8je8Msvqmk13LAtS5L "DataSets")
@@ -72,6 +93,8 @@
 ###### [**PROJECT: The Android App Market on Google Play**](https://github.com/basitaminbhatti/DataCamp_Data_Scientist_with_Python_2020/tree/master/Projects/The%20Android%20App%20Market%20on%20Google%20Play)
 ###### [**PROJECT: The GitHub History of the Scala Language**](https://github.com/basitaminbhatti/DataCamp_Data_Scientist_with_Python_2020/tree/master/Projects/The%20GitHub%20History%20of%20the%20Scala%20Language)
 ###### [**PROJECT: A Visual History of Nobel Prize Winners**](https://github.com/basitaminbhatti/DataCamp_Data_Scientist_with_Python_2020/tree/master/Projects/A%20Visual%20History%20of%20Nobel%20Prize%20Winners)
+###### [**PROJECT: Dr. Semmelweis and the Discovery of Handwashing**](https://github.com/basitaminbhatti/DataCamp_Data_Scientist_with_Python_2020/tree/master/Projects/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing)
+###### [**PROJECT: Predicting Credit Card Approvals**](https://github.com/basitaminbhatti/DataCamp_Data_Scientist_with_Python_2020/tree/master/Projects/Predicting%20Credit%20Card%20Approvals)
 
 #### Basit Amin Bhatti
 [![Github](https://img.icons8.com/ios-filled/30/000000/github.png "Github")](https://github.com/basitaminbhatti "Github")
