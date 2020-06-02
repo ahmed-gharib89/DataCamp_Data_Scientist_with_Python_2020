@@ -82,7 +82,7 @@
 ###### [Code](https://github.com/basitaminbhatti/DataCamp_Data_Scientist_with_Python_2020/tree/master/Machine%20Learning%20with%20Tree-Based%20Models%20in%20Python "Code")
 ### Case Study: School Budgeting with Machine Learning in Python
 ###### [Slides](https://drive.google.com/open?id=1JJ5OE7y5mSh0DNDNTJwLOIVhXMy74eVQ "Slides")
-###### [Code]()
+###### [Code](https://github.com/basitaminbhatti/DataCamp_Data_Scientist_with_Python_2020/tree/master/Case%20Study%20School%20Budgeting%20with%20Machine%20Learning%20in%20Python)
 ### Cluster Analysis in Python
 ###### [Slides](https://drive.google.com/open?id=1VWmExuZ1Tjn532lZq2y0S1YwAcAiWID3 "Slides")
 ###### [DataSets](https://drive.google.com/open?id=15mPZZoqWyOz9gN8je8Msvqmk13LAtS5L "DataSets")
